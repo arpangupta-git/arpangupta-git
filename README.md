@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm Arpan Gupta</h1>
 <h3 align="center">A Student of PSIT from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpangupta-git&label=Profile%20views&color=0e75b6&style=flat" alt="arpangupta-git" /> </p>
 
